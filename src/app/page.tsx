@@ -52,7 +52,7 @@ export default function Home() {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.5 }}
       >
-        Enter two choices. We'll ask the universe to decide — <span className="italic text-purple-300">truly randomly&apos;s</span>.
+        Enter two choices. We&apos;ll ask the universe to decide — <span className="italic text-purple-300">truly randomly</span>.
       </motion.p>
 
       <div className="flex flex-col items-center w-full max-w-md gap-3">
