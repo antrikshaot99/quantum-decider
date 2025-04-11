@@ -12,7 +12,7 @@ This site uses **quantum-generated random numbers** from the Australian National
 
 > "In another universe, you might've chosen the other option."
 
-
+Link : https://quantum-decider.vercel.app/
 
 ### 🔧 Tech Stack
 
