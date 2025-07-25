@@ -1,26 +1,49 @@
 # Quantum Decider ⚛️🎲
 
-A hobby project to challenge the idea of determinism and explore true randomness.
+> *"In another universe, you might've chosen the other option."*
 
-### 🧠 Concept
+A minimal web app that challenges the idea of determinism—by letting **true quantum randomness** make your decisions.
 
-Most of what we do is determined—even flipping a coin isn't truly random. That led me to quantum mechanics, where I found that photons *are* unpredictable. 
+## 🧠 Concept
 
-This site uses **quantum-generated random numbers** from the Australian National University's QRNG (Quantum Random Number Generator) to make a decision for you. For once, let randomness choose.
+Most of what we do is deterministic. Even flipping a coin or rolling dice isn't truly random—they follow physics. But quantum mechanics? That's where things get weird.
 
-### ✨ Try It Out
+This project uses **quantum-generated random numbers** from [ANU's Quantum Random Number Generator (QRNG)](https://qrng.anu.edu.au/) to help you make a decision—pure, unpredictable randomness.
 
-> "In another universe, you might've chosen the other option."
+---
 
-Link : https://quantum-decider.vercel.app/
+## 🚀 Features
 
-### 🔧 Tech Stack
+- 🌌 Decision-making powered by **real quantum events**
+- 📡 Fetches live randomness from the **QRNG API**
+- ⚡ Fast, lightweight UI using **Next.js** and **Tailwind CSS**
 
-- Next.js
-- Tailwind CSS
-- QRNG API
-- Deployed via Vercel
+---
 
-### 🤔 Why?
+## 🔧 Tech Stack
 
-Because maybe—just maybe—this little moment wasn’t predictable. And that feels like a taste of free will.
+- [Next.js](https://nextjs.org/) – App framework
+- [Tailwind CSS](https://tailwindcss.com/) – Styling
+- [QRNG API](https://qrng.anu.edu.au/) – Quantum randomness
+- [Vercel](https://vercel.com/) – Deployment
+
+---
+
+## 🖥️ Demo
+
+🔗 **Live App**: [quantum-decider.vercel.app](https://quantum-decider.vercel.app/)
+
+![screenshot](./screenshot.png)  
+*Above: A decision made by quantum randomness*
+
+---
+
+## 📦 Getting Started
+
+Clone the repo and run it locally:
+
+```bash
+git clone https://github.com/antrikshaot99/quantum-decider.git
+cd quantum-decider
+npm install
+npm run dev
