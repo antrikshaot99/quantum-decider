@@ -33,9 +33,6 @@ This project uses **quantum-generated random numbers** from [ANU's Quantum Rando
 
 🔗 **Live App**: [quantum-decider.vercel.app](https://quantum-decider.vercel.app/)
 
-![screenshot](./screenshot.png)  
-*Above: A decision made by quantum randomness*
-
 ---
 
 ## 📦 Getting Started
